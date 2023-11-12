@@ -93,6 +93,7 @@ body {
           display: flex;
           align-items: center;
           gap: 10px;
+          color: rgb(105, 103, 103);
 
           h6 {
             font-size: 16px;
@@ -101,6 +102,8 @@ body {
 
           span {
             cursor: pointer;
+            font-family: sans-serif;
+            color: black;
           }
 
           .write {
